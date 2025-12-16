@@ -56,13 +56,6 @@ Or with yarn:
 yarn add @google/adk
 ```
 
-**Note:** This package requires `zod` version `^3.22.4` as a peer dependency. Please ensure it is installed in your project:
-```bash
-npm install zod
-```
-
-The current version is `0.1.0`.
-
 ## 📚 Documentation
 
 For building, evaluating, and deploying agents by follow the TypeScript
